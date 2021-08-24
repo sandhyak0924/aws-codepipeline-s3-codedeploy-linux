@@ -1,0 +1,7 @@
+echo "# aws-codepipeline-s3-codedeploy-linux" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sandhyak0924/aws-codepipeline-s3-codedeploy-linux.git
+git push -u origin main
